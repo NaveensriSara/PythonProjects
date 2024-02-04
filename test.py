@@ -1,0 +1,1 @@
+for name,seq in seqs.items():
